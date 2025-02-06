@@ -1,22 +1,22 @@
 const teamMembers = [
-  {
-    name: "Saurabh Zinjad",
-    role: "Lead Developer",
-    github: "https://github.com/Ztrimus",
-    image: "/lovable-uploads/68a03ecb-ac8b-4b1e-b081-00175b331a51-1.png"
-  },
-  {
-    name: "Keval Shah",
-    role: "Backend Engineer",
-    github: "https://github.com/kevalshah14",
-    image: "/lovable-uploads/68a03ecb-ac8b-4b1e-b081-00175b331a51-2.png"
-  },
-  {
-    name: "Shikha Verma",
-    role: "Frontend Engineer",
-    github: "https://github.com/sverma89asu",
-    image: "/lovable-uploads/68a03ecb-ac8b-4b1e-b081-00175b331a51-3.png"
-  }
+	{
+		name: 'Saurabh Zinjad',
+		role: 'Lead Developer',
+		github: 'https://github.com/Ztrimus',
+		image: '/lovable-uploads/saurabh_zinjad.jpg',
+	},
+	{
+		name: 'Keval Shah',
+		role: 'Backend Engineer',
+		github: 'https://github.com/kevalshah14',
+		image: '/lovable-uploads/keval_shah.jpeg',
+	},
+	{
+		name: 'Shikha Verma',
+		role: 'Frontend Engineer',
+		github: 'https://github.com/sverma89asu',
+		image: '/lovable-uploads/shikha verma.jpeg',
+	},
 ];
 
 const Team = () => {
