@@ -1,19 +1,19 @@
 const teamMembers = [
 	{
 		name: 'Saurabh Zinjad',
-		role: 'Lead Developer',
+		role: 'CEO',
 		github: 'https://github.com/Ztrimus',
 		image: '/lovable-uploads/saurabh_zinjad.jpg',
 	},
 	{
 		name: 'Keval Shah',
-		role: 'Backend Engineer',
+		role: 'CTO',
 		github: 'https://github.com/kevalshah14',
 		image: '/lovable-uploads/keval_shah.jpeg',
 	},
 	{
 		name: 'Shikha Verma',
-		role: 'Frontend Engineer',
+		role: 'CFO',
 		github: 'https://github.com/sverma89asu',
 		image: '/lovable-uploads/shikha verma.jpeg',
 	},
